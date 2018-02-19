@@ -1,0 +1,8 @@
+title: Pystache
+description: Mustache in Python
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
